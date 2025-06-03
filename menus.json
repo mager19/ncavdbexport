@@ -2,9 +2,7 @@
     {
         "name": "Footer Menu",
         "slug": "footer-menu",
-        "locations": [
-            "menu-2"
-        ],
+        "locations": [],
         "items": [
             {
                 "ID": 19,
@@ -93,9 +91,7 @@
     {
         "name": "Main Menu",
         "slug": "main-menu",
-        "locations": [
-            "menu-1"
-        ],
+        "locations": [],
         "items": [
             {
                 "ID": 24,

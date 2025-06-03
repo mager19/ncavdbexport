@@ -864,8 +864,22 @@
     "theme_mods_ncav/theme": {
         "0": false,
         "nav_menu_locations": {
-            "menu-2": 3,
-            "menu-1": 4
+            "menu-2": {
+                "errors": {
+                    "menu_exists": [
+                        "The menu name <strong>Footer Menu</strong> conflicts with another menu name. Please try another."
+                    ]
+                },
+                "error_data": []
+            },
+            "menu-1": {
+                "errors": {
+                    "menu_exists": [
+                        "The menu name <strong>Main Menu</strong> conflicts with another menu name. Please try another."
+                    ]
+                },
+                "error_data": []
+            }
         },
         "custom_css_post_id": -1,
         "sidebars_widgets": {
