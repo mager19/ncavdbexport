@@ -1,0 +1,14 @@
+{
+    "ID": 11,
+    "post_title": "Resources",
+    "post_content": "<!-- wp:ncav-blocks/hero-cpts {\"heroTitle\":\"The NCAV\u2019s members meet every month, and work every day to ensure people with disabilities can Access Their Right To Vote. You can read the NCAV\u2019s work below! Our latest work is on the first page.\",\"backgroundColor\":\"brand-gold-200\"} /-->",
+    "post_excerpt": "",
+    "post_type": "page",
+    "post_status": "publish",
+    "post_name": "resources",
+    "meta": {
+        "_edit_lock": [
+            "1748634024:1"
+        ]
+    }
+}
