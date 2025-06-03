@@ -1,0 +1,14 @@
+{
+    "ID": 342,
+    "post_title": "new page",
+    "post_content": "<!-- wp:paragraph -->\n<p>test new page</p>\n<!-- /wp:paragraph -->",
+    "post_excerpt": "",
+    "post_type": "page",
+    "post_status": "publish",
+    "post_name": "new-page",
+    "meta": {
+        "_edit_lock": [
+            "1748960023:1"
+        ]
+    }
+}
