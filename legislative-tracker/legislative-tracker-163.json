@@ -1,0 +1,73 @@
+{
+    "ID": 163,
+    "post_title": "RESTORE Act of 2023",
+    "post_content": "",
+    "post_excerpt": "",
+    "post_type": "legislative-tracker",
+    "post_status": "publish",
+    "post_name": "restore-act-of-2023",
+    "meta": {
+        "_edit_lock": [
+            "1748564015:1"
+        ],
+        "_edit_last": [
+            "1"
+        ],
+        "bill_link_url": [
+            "https://google.com"
+        ],
+        "_bill_link_url": [
+            "field_6823754fc0da4"
+        ],
+        "house_or_senate": [
+            "House"
+        ],
+        "_house_or_senate": [
+            "field_6823758cc0da5"
+        ],
+        "topic_areas": [
+            [
+                "education"
+            ]
+        ],
+        "_topic_areas": [
+            "field_682375adc0da6"
+        ],
+        "sponsor_namedistrict_0_item": [
+            "Jane Doe (D-TN-9)"
+        ],
+        "_sponsor_namedistrict_0_item": [
+            "field_682375e5c0da8"
+        ],
+        "sponsor_namedistrict_1_item": [
+            "John Smith (D-MD-3)"
+        ],
+        "_sponsor_namedistrict_1_item": [
+            "field_682375e5c0da8"
+        ],
+        "sponsor_namedistrict": [
+            "2"
+        ],
+        "_sponsor_namedistrict": [
+            "field_682375dac0da7"
+        ],
+        "statement_url": [
+            "https://google.com"
+        ],
+        "_statement_url": [
+            "field_68237607c0da9"
+        ],
+        "_acf_changed": [
+            "1"
+        ],
+        "issues": [
+            [
+                "Education",
+                "Privacy"
+            ]
+        ],
+        "_issues": [
+            "field_682375adc0da6"
+        ]
+    }
+}

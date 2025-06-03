@@ -95,6 +95,14 @@
     "test_children": [],
     "legislation-type_children": [],
     "content_type_children": [],
+    "dbvc_post_types": [
+        "post",
+        "page",
+        "attachment",
+        "legislation",
+        "legislative-tracker",
+        "resource"
+    ],
     "use_balanceTags": "0",
     "use_smilies": "1",
     "require_name_email": "1",
@@ -920,6 +928,5 @@
         "next_check": 1748965861,
         "legacy_multisite": true
     },
-    "_transient_health-check-site-status-result": "{\"good\":18,\"recommended\":1,\"critical\":1}",
-    "_transient_doing_cron": "1748958617.4262759685516357421875"
+    "_transient_health-check-site-status-result": "{\"good\":18,\"recommended\":1,\"critical\":1}"
 }
