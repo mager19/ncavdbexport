@@ -920,5 +920,6 @@
         "next_check": 1748965861,
         "legacy_multisite": true
     },
-    "_transient_health-check-site-status-result": "{\"good\":18,\"recommended\":1,\"critical\":1}"
+    "_transient_health-check-site-status-result": "{\"good\":18,\"recommended\":1,\"critical\":1}",
+    "_transient_doing_cron": "1748958617.4262759685516357421875"
 }
